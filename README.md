@@ -1,4 +1,6 @@
 # Blackjack Game
+
+Link to site: https://blackjack-game-website.netlify.app/
 An app made with html, css and javascript that works like the Blackjack game
 
 Developed a fully functional Blackjack game using HTML, CSS, and JavaScript.
